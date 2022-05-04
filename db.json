@@ -1,0 +1,20 @@
+{
+	"users": [
+		{
+			"id":1,
+			"title": "DevLawyer"
+		},
+		{
+			"id":2,
+			"title": "Octavio Ietsugu"
+		}
+	],
+	"law_areas": [
+		{
+			"name": "Civil"
+		},
+		{
+			"name": "Penal"
+		}
+	]
+}
